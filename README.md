@@ -37,16 +37,16 @@ District Wise Ramadan Calendar Division Wise Prayer Time Iftar, Sehri and Prayer
 Opssonin Pharma Limited.
  An android application to submit the market survey reports, prescription of the doctors and image of the prescription. 
 
-- **BLOCK LIST AUTOMATION (02/2017 - Present)**  
+- **BLOCK LIST AUTOMATION (02/2017 - Present)**  [live] (http://180.211.137.73/drug/public/user/login)  
 Directorate General of Drug Administration An online application for Directorate General of Drug Administration
 (DGDA) under the Ministry of Health & Family Welfare, Government of the People's Republic of Bangladesh using Zend Framework and
 Oracle 11g Database.
 
-- **E-Tender application (01/2016 - 03/2016)**  
+- **E-Tender application (01/2016 - 03/2016)**  [live] (http://opsonin.com.bd/dashboard)   
  Opsonin Group
 E-tender application using Zend Framework for Opsonin Groups Vendors to submit Quotation for Raw materials, Stationary items, Local Procurements using Zend Framework and Oracle 11g. 
 
-- **Opsosaline Limited (01/2020 - 02/2020)**  
+- **Opsosaline Limited (01/2020 - 02/2020)**  [live] (http://www.opsosaline.com/osl/) 
 Opsonin Group
 A corporate website using Joomla CMS for Opsosaline Limited.
 
