@@ -21,7 +21,8 @@ Ahsanullah University of Science and Technology
 
 ### PROJECTS
 
-- **Opsonin Telemedicine App (08/2020 - Present)**
+- **Opsonin Telemedicine App (08/2020 - Present)**  
+
 Opsonin Pharma Limited
 Opsonin Telemedicine app to take an appointment to registereddoctor, prescription from doctors, Health tips, Medicine reminder,image and symptoms entry, Audio and video call with the doctors, Medicine search, Medicine Order. 
 
