@@ -1,10 +1,11 @@
-## Abdur Rahman Onik  
-Executive-IT, Opsonin Pharma Limited.  
+## Abdur Rahman Onik 
+### Bachelor in Computer Science and Engineering.
+#### Executive-IT, Opsonin Pharma Limited.  
 Web and Android application Developer.  
 **[Google Scholar](https://scholar.google.com/citations?user=uLJZeTQAAAAJ&hl=en) ||  [Linkdin](https://www.linkedin.com/in/rahmanonik/)**
 
-### Bachelor in Computer Science and Engineering.
 
+### 📄 About me
 I have completed my undergraduate from AhsanUllah University of Science and Technology in Computer Science
 and Engineering. I have been working as a Full Stack Android application developer in Opsonin Pharma. I have
 published journal and conference papers in some of the renowned International Journal. Besides, Android
@@ -33,7 +34,7 @@ Intrusion detection system
 - **Database:** Oracle 11g, Mysql, Sqllite  
 
 
-### 📌RESEARCH WORK
+### ✒️ RESEARCH WORK
 **Data analysis using Weka Machine learning tool.**  
 Applied feature selection approaches to extract feature from NSL KDD data set and then used Bayesian network to design an ensemble approach to detect
 intrusion.   
