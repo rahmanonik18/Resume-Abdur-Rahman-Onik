@@ -32,7 +32,7 @@ Intrusion detection system
 ### RESEARCH WORK
 **Data analysis using Weka Machine learning tool.**  
 Applied feature selection approaches to extract feature from NSL KDD data set and then used Bayesian network to design an ensemble approach to detect
-intrusion. 
+intrusion.   
 **topics:  
 ```
 - Machine Learning
