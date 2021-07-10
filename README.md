@@ -1,6 +1,11 @@
 ## Abdur Rahman Onik
+### Bachelor in Computer Science and Engineering.
 
-Full Stack developer, Opsonin Pharma Limited.
+I have completed my undergraduate from AhsanUllah University of Science and Technology in Computer Science
+and Engineering. I have been working as a Full Stack Android application developer in Opsonin Pharma. I have
+published journal and conference papers in some of the renowned International Journal. Besides, Android
+development I have done web application development using Zend Framework and website development using
+Joomla CMS. Looking for an opportunity for Graduate Research Assistantship.
 
 ### 👩🏼‍💻 Technical Experience
 - **Language:**  Android Java, PHP, C, Python
