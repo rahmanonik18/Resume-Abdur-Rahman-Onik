@@ -25,15 +25,15 @@ Ahsanullah University of Science and Technology
 Opsonin Pharma Limited
 Opsonin Telemedicine app to take an appointment to registereddoctor, prescription from doctors, Health tips, Medicine reminder,image and symptoms entry, Audio and video call   with the doctors, Medicine search, Medicine Order. 
 
-- **Vector (01/2019 - Present)**  
+- **Vector (01/2019 - Present)**  [GitHub](https://play.google.com/store/apps/details?id=com.opl.pharmavector)
  Opssonin Pharma Limited.
  An android application for Medical Promotion Officers to Submit daily Online Order from different regions. This application also includes Daily Call Report( DCR) to monitor their daily activities and track their visits to the doctors and chemists.
 
-- **Finix Ramadan Calendar & Hajj Guide (05/2018 - Present)**  
+- **Finix Ramadan Calendar & Hajj Guide (05/2018 - Present)**  [GitHub](https://play.google.com/store/apps/details?id=finix.ramadan.opsonin)
  Opsonin Pharma Limited
 District Wise Ramadan Calendar Division Wise Prayer Time Iftar, Sehri and Prayer Time reminder Ramadan Dua Al-Quran all Surah with meaning and available to download Hajj Guideline Islamic Zakat Calculator Qibla Compass Tasbih Counter. 
 
-- **Opsoforce (10/2018 - Present)**  
+- **Opsoforce (10/2018 - Present)**  [GitHub](https://play.google.com/store/apps/details?id=com.opl.opluploadimage)
 Opssonin Pharma Limited.
  An android application to submit the market survey reports, prescription of the doctors and image of the prescription. 
 
