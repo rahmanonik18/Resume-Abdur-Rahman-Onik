@@ -23,7 +23,7 @@ Intrusion detection system
 ```
 
 ### 👨🏼‍💻 Technical Experience
-- **Language:**  Android Java, PHP, C, Python
+- **Language:**  Android (Java), PHP, C, PLsql
 - **Framework:** Zend
 - **Tool:** Weka Machine Learning tool, Oracle forms and reports
 - **Database:** Oracle 11g, Mysql, Sqllite  
