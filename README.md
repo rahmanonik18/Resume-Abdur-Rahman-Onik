@@ -21,34 +21,34 @@ Ahsanullah University of Science and Technology
 
 ### PROJECTS
 
-- Opsonin Telemedicine App (08/2020 - Present)
+- **Opsonin Telemedicine App (08/2020 - Present)**
 - Opsonin Pharma Limited
-Opsonin Telemedicine app to take an appointment to registereddoctor, prescription from doctors, Health tips, Medicine reminder,image and symptoms entry, Audio and video call with the doctors, Medicine search, Medicine Order. 
+- Opsonin Telemedicine app to take an appointment to registereddoctor, prescription from doctors, Health tips, Medicine reminder,image and symptoms entry, Audio and video call with the doctors, Medicine search, Medicine Order. 
 
-- Vector (01/2019 - Present)
+- **Vector (01/2019 - Present)**
 - Opssonin Pharma Limited.
- An android application for Medical Promotion Officers to Submit daily Online Order from different regions. This application also includes Daily Call Report( DCR) to monitor their daily activities and track their visits to the doctors and chemists.
+- An android application for Medical Promotion Officers to Submit daily Online Order from different regions. This application also includes Daily Call Report( DCR) to monitor their daily activities and track their visits to the doctors and chemists.
 
-- Finix Ramadan Calendar & Hajj Guide (05/2018 - Present)
+- **Finix Ramadan Calendar & Hajj Guide (05/2018 - Present)
 - Opsonin Pharma Limited
-District Wise Ramadan Calendar Division Wise Prayer Time Iftar, Sehri and Prayer Time reminder Ramadan Dua Al-Quran all Surah with meaning and available to download Hajj Guideline Islamic Zakat Calculator Qibla Compass Tasbih Counter. 
+- District Wise Ramadan Calendar Division Wise Prayer Time Iftar, Sehri and Prayer Time reminder Ramadan Dua Al-Quran all Surah with meaning and available to download Hajj Guideline Islamic Zakat Calculator Qibla Compass Tasbih Counter. 
 
-- Opsoforce (10/2018 - Present)
+- **Opsoforce (10/2018 - Present)
 - Opssonin Pharma Limited.
- An android application to submit the market survey reports, prescription of the doctors and image of the prescription. 
+- An android application to submit the market survey reports, prescription of the doctors and image of the prescription. 
 
-- BLOCK LIST AUTOMATION (02/2017 - Present)
+- **BLOCK LIST AUTOMATION (02/2017 - Present)
 - Directorate General of Drug Administration An online application for Directorate General of Drug Administration
 (DGDA) under the Ministry of Health & Family Welfare, Government of the People's Republic of Bangladesh using Zend Framework and
 Oracle 11g Database.
 
-- E-Tender application (01/2016 - 03/2016)
+- **E-Tender application (01/2016 - 03/2016)
 - Opsonin Group
-E-tender application using Zend Framework for Opsonin Groups Vendors to submit Quotation for Raw materials, Stationary items, Local Procurements using Zend Framework and Oracle 11g. 
+- E-tender application using Zend Framework for Opsonin Groups Vendors to submit Quotation for Raw materials, Stationary items, Local Procurements using Zend Framework and Oracle 11g. 
 
-- Opsosaline Limited (01/2020 - 02/2020)
+- **Opsosaline Limited (01/2020 - 02/2020)
 - Opsonin Group
-A corporate website using Joomla CMS for Opsosaline Limited.
+- A corporate website using Joomla CMS for Opsosaline Limited.
 
 
 
