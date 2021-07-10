@@ -3,11 +3,10 @@
 Full Stack developer, Opsonin Pharma Limited.
 
 ### 👩🏼‍💻 Technical Experience
--
-**Android**  
-**Zend Framewrok** 
-**Oracle 11g** 
-**Joomla CMS** 
+-**Android**  
+-**Zend Framewrok** 
+-**Oracle 11g** 
+-**Joomla CMS** 
 
 ```markdown
 Syntax highlighted code block
