@@ -9,8 +9,8 @@ Joomla CMS. Looking for an opportunity for Graduate Research Assistantship.
 
 ### 👨‍🎓 Education
 
-**Bachelor of Science in Computer Science and Engineering  
-Ahsanullah University of Science and Technology, (04/2011 - 08/2015)    
+**Bachelor of Science in Computer Science and Engineering**    
+**Ahsanullah University of Science and Technology, (04/2011 - 08/2015)**      
 **3.378 out of 4** 
 
 ### 🎓 RESEARCH INTEREST  
