@@ -2,9 +2,12 @@
 
 Full Stack developer, Opsonin Pharma Limited.
 
-### Research
+### 👩🏼‍💻 Technical Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Android 
+PHP Zend Framwwork
+Oracle 11g
+Joomla CMS
 
 ```markdown
 Syntax highlighted code block
