@@ -3,10 +3,10 @@
 Full Stack developer, Opsonin Pharma Limited.
 
 ### 👩🏼‍💻 Technical Experience
--**Language:**  Android Java, PHP, C, Python
--**Framework:** Zend
--**Oracle 11g** 
--**Joomla CMS** 
+- **Language:**  Android Java, PHP, C, Python
+- **Framework:** Zend
+- **Oracle 11g** 
+- **Joomla CMS** 
 
 ```markdown
 Syntax highlighted code block
