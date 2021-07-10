@@ -1,6 +1,7 @@
 ## Abdur Rahman Onik  
 Executive-IT, Opsonin Pharma Limited.  
-Web and Android application Developer.  
+Web and Android application Developer.
+[Google Scholar](https://scholar.google.com/citations?user=uLJZeTQAAAAJ&hl=en) ||  [Linkdin](https://www.linkedin.com/in/rahmanonik/)
 
 ### Bachelor in Computer Science and Engineering.
 
