@@ -9,9 +9,10 @@ Joomla CMS. Looking for an opportunity for Graduate Research Assistantship.
 
 ### EDUCATION
 
-Bachelor of Science in Computer Science and Engineering
-Ahsanullah University of Science and Technology
-04/2011 - 08/2015, 3.378 out of 4
+Bachelor of Science in Computer Science and Engineering  
+Ahsanullah University of Science and Technology,(04/2011 - 08/2015)    
+**3.378 out of 4  
+
 
 ### 👩🏼‍💻 Technical Experience
 - **Language:**  Android Java, PHP, C, Python
@@ -37,16 +38,16 @@ District Wise Ramadan Calendar Division Wise Prayer Time Iftar, Sehri and Prayer
 Opssonin Pharma Limited.
  An android application to submit the market survey reports, prescription of the doctors and image of the prescription. 
 
-- **BLOCK LIST AUTOMATION (02/2017 - Present)**  [live] (http://180.211.137.73/drug/public/user/login)  
+- **BLOCK LIST AUTOMATION (02/2017 - Present)**  [live](http://180.211.137.73/drug/public/user/login)  
 Directorate General of Drug Administration An online application for Directorate General of Drug Administration
 (DGDA) under the Ministry of Health & Family Welfare, Government of the People's Republic of Bangladesh using Zend Framework and
 Oracle 11g Database.
 
-- **E-Tender application (01/2016 - 03/2016)**  [live] (http://opsonin.com.bd/dashboard)   
+- **E-Tender application (01/2016 - 03/2016)**  [live](http://opsonin.com.bd/dashboard)   
  Opsonin Group
 E-tender application using Zend Framework for Opsonin Groups Vendors to submit Quotation for Raw materials, Stationary items, Local Procurements using Zend Framework and Oracle 11g. 
 
-- **Opsosaline Limited (01/2020 - 02/2020)**  [live] (http://www.opsosaline.com/osl/) 
+- **Opsosaline Limited (01/2020 - 02/2020)**  [live](http://www.opsosaline.com/osl/) 
 Opsonin Group
 A corporate website using Joomla CMS for Opsosaline Limited.
 
