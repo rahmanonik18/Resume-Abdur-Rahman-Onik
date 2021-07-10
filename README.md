@@ -1,7 +1,7 @@
 ## Abdur Rahman Onik  
 Executive-IT, Opsonin Pharma Limited.  
-Web and Android application Developer.
-[Google Scholar](https://scholar.google.com/citations?user=uLJZeTQAAAAJ&hl=en) ||  [Linkdin](https://www.linkedin.com/in/rahmanonik/)
+Web and Android application Developer.  
+**[Google Scholar](https://scholar.google.com/citations?user=uLJZeTQAAAAJ&hl=en) ||  [Linkdin](https://www.linkedin.com/in/rahmanonik/)**
 
 ### Bachelor in Computer Science and Engineering.
 
@@ -47,23 +47,20 @@ intrusion.
 
 ### 💬 PUBLICATION
 
-- Application of Machine Learning Approaches in Intrusion Detection System: A Survey (04/2015)  
+- **Application of Machine Learning Approaches in Intrusion Detection System: A Survey (04/2015)**    
 International Journal of Advanced Research in Artificial Intelligence (IJARAI), 4(3), 2015
 
-- An Ensemble Framework of Anomaly Detection Using Hybridized Feature Selection Approach
-(HFSA).(11/2015)  
+- **An Ensemble Framework of Anomaly Detection Using Hybridized Feature Selection Approach (HFSA).(11/2015)**    
 2015 SAI Intelligent Systems Conference (IntelliSys)
 
-- Cross-breed type Bayesian network based intrusion detection system (CBNIDS) (06/2016)  
+- **Cross-breed type Bayesian network based intrusion detection system (CBNIDS) (06/2016)**    
 2015 18th International Conference on Computer and Information Technology (ICCIT)
 
-- An analytical comparison on filter feature extraction method in data mining using J48 classifier
-(12/2015)  
+- **An analytical comparison on filter feature extraction method in data mining using J48 classifier(12/2015)**    
 International Journal of Computer ApplicationsFoundation of Computer Science (FCS), NY, USAVolume 124 - Number 13 Year of
 Publication: 2015
 
-- A network intrusion detection framework based on Bayesian network using wrapper approach
-(05/2017)  
+- **A network intrusion detection framework based on Bayesian network using wrapper approach(05/2017)**    
 International Journal of Computer Applications 166 (4), 13-17
 
 ### 💻 PROJECTS
