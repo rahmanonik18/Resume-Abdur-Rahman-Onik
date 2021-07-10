@@ -56,7 +56,7 @@ Oracle 11g Database.
  Opsonin Group
 E-tender application using Zend Framework for Opsonin Groups Vendors to submit Quotation for Raw materials, Stationary items, Local Procurements using Zend Framework and Oracle 11g. 
 
-- **Opsosaline Limited (01/2020 - 02/2020)**  [live](http://www.opsosaline.com/osl/) 
+- **Opsosaline Limited (01/2020 - 02/2020)**  [live](http://www.opsosaline.com/osl/)   
 Opsonin Group
 A corporate website using Joomla CMS for Opsosaline Limited.
 
