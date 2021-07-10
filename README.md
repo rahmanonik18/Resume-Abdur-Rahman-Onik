@@ -13,7 +13,7 @@ Bachelor of Science in Computer Science and Engineering
 Ahsanullah University of Science and Technology, (04/2011 - 08/2015)    
 **3.378 out of 4** 
 
-### RESEARCH INTEREST  
+### 🎓 RESEARCH INTEREST  
 ```
 Machine Learning
 Decision Making
@@ -23,13 +23,13 @@ Intrusion detection system
 ```
 
 
-### 👩🏼‍💻 Technical Experience
+### 👨🏼‍💻 Technical Experience
 - **Language:**  Android Java, PHP, C, Python
 - **Framework:** Zend
 - **Tool:** Weka Machine Learning tool, Oracle forms and reports
 - **Database:** Oracle 11g, Mysql, Sqllite
 
-### PROJECTS
+### 💻 PROJECTS
 
 - **Opsonin Telemedicine App (08/2020 - Present)**   
 Opsonin Pharma Limited
