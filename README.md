@@ -1,10 +1,12 @@
 ## Abdur Rahman Onik 
-### Bachelor in Computer Science and Engineering.
+#### Bachelor in Computer Science and Engineering.
 #### Executive-IT, Opsonin Pharma Limited.  
-Web and Android application Developer.
+#### Web and Android application Developer.
 
+### Profile Links  
+**[Google Scholar](https://scholar.google.com/citations?user=uLJZeTQAAAAJ&hl=en) ||  [Linkdin](https://www.linkedin.com/in/rahmanonik/)**  
 
-### 📄 About me
+### 📄 About me  
 I have completed my undergraduate from AhsanUllah University of Science and Technology in Computer Science
 and Engineering. I have been working as a Full Stack Android application developer in Opsonin Pharma. I have
 published journal and conference papers in some of the renowned International Journal. Besides, Android
@@ -12,7 +14,6 @@ development I have done web application development using Zend Framework and web
 Joomla CMS. Looking for an opportunity for Graduate Research Assistantship.
 
 ### 👨‍🎓 Education
-
 **Bachelor of Science in Computer Science and Engineering**    
 **Ahsanullah University of Science and Technology, (04/2011 - 08/2015)**      
 **3.378 out of 4** 
@@ -46,7 +47,6 @@ intrusion.
 ```
 
 ### 💬 PUBLICATION
-
 - **Application of Machine Learning Approaches in Intrusion Detection System: A Survey (04/2015)**    
 International Journal of Advanced Research in Artificial Intelligence (IJARAI), 4(3), 2015
 
@@ -64,7 +64,6 @@ Publication: 2015
 International Journal of Computer Applications 166 (4), 13-17
 
 ### 💻 PROJECTS
-
 - **Opsonin Telemedicine App (08/2020 - Present)**   
 Opsonin Pharma Limited
 Opsonin Telemedicine app to take an appointment to registereddoctor, prescription from doctors, Health tips, Medicine reminder,image and symptoms entry, Audio and video call   with the doctors, Medicine search, Medicine Order. 
