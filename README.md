@@ -19,30 +19,41 @@ Ahsanullah University of Science and Technology
 - **Tool:** Weka Machine Learning tool, Oracle forms and reports
 - **Database:** Oracle 11g, Mysql, Sqllite
 
-```markdown
-Syntax highlighted code block
+### PROJECTS
 
-# Header 1
-## Header 2
-### Header 3
+Opsonin Telemedicine App (08/2020 - Present)
+Opsonin Pharma Limited
+Opsonin Telemedicine app to take an appointment to registered
+doctor, prescription from doctors, Health tips, Medicine reminder,
+image and symptoms entry, Audio and video call with the doctors, Medicine search, Medicine Order. 
 
-- Bulleted
-- List
+Vector (01/2019 - Present)
+Opssonin Pharma Limited. An android application for Medical Promotion Officers to Submit
+daily Online Order from different regions. This application also
+includes Daily Call Report( DCR) to monitor their daily activities and
+track their visits to the doctors and chemists.
 
-1. Numbered
-2. List
+Finix Ramadan Calendar & Hajj Guide
+(05/2018 - Present)
+Opsonin Pharma Limited
+District Wise Ramadan Calendar Division Wise Prayer Time Iftar, Sehri and Prayer Time reminder Ramadan Dua Al-Quran all Surah with meaning and available to download Hajj Guideline Islamic Zakat
+Calculator Qibla Compass Tasbih Counter. 
 
-**Bold** and _Italic_ and `Code` text
+Opsoforce (10/2018 - Present)
+Opssonin Pharma Limited. An android application to submit the market survey reports, prescription of the doctors and image of the prescription. 
 
-[Link](url) and ![Image](src)
-```
+BLOCK LIST AUTOMATION (02/2017 - Present)
+Directorate General of Drug Administration An online application for Directorate General of Drug Administration
+(DGDA) under the Ministry of Health & Family Welfare, Government of the People's Republic of Bangladesh using Zend Framework and
+Oracle 11g Database.
+E-Tender application (01/2016 - 03/2016)
+Opsonin Group
+E-tender application using Zend Framework for Opsonin Groups Vendors to submit Quotation for Raw materials, Stationary items, Local Procurements using Zend Framework and Oracle 11g. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Opsosaline Limited (01/2020 - 02/2020)
+Opsonin Group
+A corporate website using Joomla CMS for Opsosaline Limited.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rahmanonik18/Resume-Abdur-Rahman-Onik/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
