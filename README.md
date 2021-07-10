@@ -4,7 +4,7 @@
 #### Web and Android application Developer.
 
 ### Profile Links  
-**[Google Scholar](https://scholar.google.com/citations?user=uLJZeTQAAAAJ&hl=en) ||  [Linkdin](https://www.linkedin.com/in/rahmanonik/)**  
+**[Google Scholar](https://scholar.google.com/citations?user=uLJZeTQAAAAJ&hl=en) ||  [Linkdin](https://www.linkedin.com/in/rahmanonik/) ||   [Research Gate](https://www.researchgate.net/profile/Abdur-Onik-2)** 
 
 ### 📄 About me  
 I have completed my undergraduate from AhsanUllah University of Science and Technology in Computer Science
@@ -37,8 +37,7 @@ Intrusion detection system
 ### ✒️ RESEARCH WORK
 **Data analysis using Weka Machine learning tool.**  
 Applied feature selection approaches to extract feature from NSL KDD data set and then used Bayesian network to design an ensemble approach to detect
-intrusion.   
-**topics:  
+intrusion.    
 ```
 - Machine Learning
 - Intrusion detection system  
