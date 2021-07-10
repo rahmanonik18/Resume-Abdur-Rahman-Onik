@@ -7,6 +7,12 @@ published journal and conference papers in some of the renowned International Jo
 development I have done web application development using Zend Framework and website development using
 Joomla CMS. Looking for an opportunity for Graduate Research Assistantship.
 
+### EDUCATION
+
+Bachelor of Science in Computer Science and Engineering
+Ahsanullah University of Science and Technology
+04/2011 - 08/2015, 3.378 out of 4
+
 ### 👩🏼‍💻 Technical Experience
 - **Language:**  Android Java, PHP, C, Python
 - **Framework:** Zend
