@@ -29,8 +29,19 @@ Intrusion detection system
 - **Database:** Oracle 11g, Mysql, Sqllite  
 
 
+### RESEARCH WORK
+**Data analysis using Weka Machine learning tool.**  
+Applied feature selection approaches to extract feature from NSL KDD data set and then used Bayesian network to design an ensemble approach to detect
+intrusion. 
+**topics:  
+```
+- Machine Learning
+- Intrusion detection system  
+- Feature Selection approach Bayesian Algorithm  
+- Pattern Recognition  
+```
 
-### PUBLICATION
+### 💬 PUBLICATION
 
 - Application of Machine Learning Approaches in Intrusion Detection System: A Survey (04/2015)  
 International Journal of Advanced Research in Artificial Intelligence (IJARAI), 4(3), 2015
