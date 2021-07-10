@@ -11,7 +11,7 @@ Joomla CMS. Looking for an opportunity for Graduate Research Assistantship.
 
 Bachelor of Science in Computer Science and Engineering  
 Ahsanullah University of Science and Technology,(04/2011 - 08/2015)    
-**3.378 out of 4  
+**3.378 out of 4**   
 
 
 ### 👩🏼‍💻 Technical Experience
