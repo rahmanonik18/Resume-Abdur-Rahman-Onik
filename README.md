@@ -1,7 +1,7 @@
-## Abdur Rahman Onik 
-#### Bachelor in Computer Science and Engineering.
-#### Executive-IT, Opsonin Pharma Limited.  
-#### Web and Android application Developer.
+### Abdur Rahman Onik 
+**Bachelor in Computer Science and Engineering.  
+Executive-IT, Opsonin Pharma Limited.    
+Web and Android application Developer.**  
 
 ### Profile Links  
 **[Google Scholar](https://scholar.google.com/citations?user=uLJZeTQAAAAJ&hl=en) ||  [Linkdin](https://www.linkedin.com/in/rahmanonik/) ||   [Research Gate](https://www.researchgate.net/profile/Abdur-Onik-2)** 
