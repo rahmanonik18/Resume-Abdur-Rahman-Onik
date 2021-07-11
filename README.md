@@ -46,20 +46,20 @@ intrusion.
 ```
 
 ### 💬 PUBLICATION
-- **Application of Machine Learning Approaches in Intrusion Detection System: A Survey (04/2015)**    
+- **Application of Machine Learning Approaches in Intrusion Detection System: A Survey (04/2015)** [link](https://thesai.org/Publications/ViewPaper?Volume=4&Issue=3&Code=IJARAI&SerialNo=2)       
 International Journal of Advanced Research in Artificial Intelligence (IJARAI), 4(3), 2015
 
-- **An Ensemble Framework of Anomaly Detection Using Hybridized Feature Selection Approach (HFSA).(11/2015)**    
+- **An Ensemble Framework of Anomaly Detection Using Hybridized Feature Selection Approach (HFSA).(11/2015)** [link](https://ieeexplore.ieee.org/document/7361264)      
 2015 SAI Intelligent Systems Conference (IntelliSys)
 
-- **Cross-breed type Bayesian network based intrusion detection system (CBNIDS) (06/2016)**    
+- **Cross-breed type Bayesian network based intrusion detection system (CBNIDS) (06/2016)** [link](https://ieeexplore.ieee.org/document/7488105)          
 2015 18th International Conference on Computer and Information Technology (ICCIT)
 
-- **An analytical comparison on filter feature extraction method in data mining using J48 classifier(12/2015)**    
+- **An analytical comparison on filter feature extraction method in data mining using J48 classifier(12/2015)** [link](https://www.ijcaonline.org/archives/volume124/number13/22161-2015905706)       
 International Journal of Computer ApplicationsFoundation of Computer Science (FCS), NY, USAVolume 124 - Number 13 Year of
 Publication: 2015
 
-- **A network intrusion detection framework based on Bayesian network using wrapper approach(05/2017)**    
+- **A network intrusion detection framework based on Bayesian network using wrapper approach(05/2017)**[link](https://www.ijcaonline.org/archives/volume166/number4/27656-2017913992)      
 International Journal of Computer Applications 166 (4), 13-17
 
 ### 💻 PROJECTS
