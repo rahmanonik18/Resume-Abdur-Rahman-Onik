@@ -59,7 +59,7 @@ International Journal of Advanced Research in Artificial Intelligence (IJARAI), 
 International Journal of Computer ApplicationsFoundation of Computer Science (FCS), NY, USAVolume 124 - Number 13 Year of
 Publication: 2015
 
-- **A network intrusion detection framework based on Bayesian network using wrapper approach(05/2017)**[link](https://www.ijcaonline.org/archives/volume166/number4/27656-2017913992)      
+- **A network intrusion detection framework based on Bayesian network using wrapper approach(05/2017)** [link](https://www.ijcaonline.org/archives/volume166/number4/27656-2017913992)      
 International Journal of Computer Applications 166 (4), 13-17
 
 ### 💻 PROJECTS
