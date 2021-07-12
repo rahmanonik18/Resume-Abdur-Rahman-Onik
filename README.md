@@ -8,10 +8,11 @@ Web and Android application Developer.**
 
 ### 📄 About me 
 ```
-I have completed my undergraduate from AhsanUllah University of Science and Technology in Computer Science
-and Engineering. I have been working as a Full Stack Android application developer in Opsonin Pharma. I have
-published 4 journal paper and 2 conference paper. I have research interest on Machine Learning, Intrusion detection system, Digital Healthcare.
-I work on Weka Machine Learning tool. Looking for Graduate Research Assistantship.
+I have completed my undergraduate from AhsanUllah University of Science and Technology in Computer Science  
+and Engineering. I have been working as a Full Stack Android application developer in Opsonin Pharma. I have  
+published 4 journal paper and 2 conference paper. I have research interest on Machine Learning, Intrusion   
+detection system, Digital Healthcare.I work on Weka Machine Learning tool.  
+Looking for Graduate Research Assistantship.
 
 ```
 ### 👨‍🎓 Education
