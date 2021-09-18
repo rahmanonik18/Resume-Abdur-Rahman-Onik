@@ -69,7 +69,7 @@ Publication: 2015
 International Journal of Computer Applications 166 (4), 13-17
 
 ### 💻 PROJECTS
-- **Opsonin Telemedicine App (08/2020 - Present)**   
+- **Medix Bd (08/2020 - Present)**   
 Opsonin Pharma Limited
 Opsonin Telemedicine app to take an appointment to registereddoctor, prescription from doctors, Health tips, Medicine reminder,image and symptoms entry, Audio and video call   with the doctors, Medicine search, Medicine Order. 
 
