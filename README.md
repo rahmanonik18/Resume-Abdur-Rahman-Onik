@@ -35,7 +35,7 @@ Healthcare
 
 ### 👨🏼‍💻 Technical Experience
 - **Language:**  Android (Java), PHP, C, PLsql
-- **Framework:** Zend
+- **Framework:** Zend, Symfony
 - **Tool:** Weka Machine Learning tool, Oracle forms and reports
 - **Database:** Oracle 11g, Mysql, Sqllite  
 
