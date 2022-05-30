@@ -1,6 +1,7 @@
 ### Abdur Rahman Onik 
-**Bachelor in Computer Science and Engineering.  
-Executive-IT, Opsonin Pharma Limited.    
+**Bachelor in Computer Science and Engineering. 
+Senior Executive- IT, General Pharma Limited (2022- present)
+Executive-IT, Opsonin Pharma Limited (2015-2022)    
 Web and Android application Developer.**  
 
 ### Profile Links  
